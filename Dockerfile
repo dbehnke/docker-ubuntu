@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER jgeiger@gmail.com
+MAINTAINER dbehnke@gmail.com
 
 ENV DEBIAN_FRONTEND noninteractive
 
